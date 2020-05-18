@@ -1,0 +1,25 @@
+
+.square {
+width: 100px;
+height: 100px;
+margin: 50px auto;
+background-color: #d92ee8;
+
+padding: 50px;
+text-align: center;
+width: 100px;
+height:100px;
+
+text-indent: 0px;
+border: 1px solid #f1058c;
+-moz-transition: all 1s 0.1s ease-in;
+-o-transition: all 1s 0.1s ease-in;
+-webkit-transition: all 1s 0.1s ease-in;
+cursor: pointer;}
+
+.square:hover {
+background-color: #97CE68;
+color: #000;
+-webkit-transform: rotate(360deg);
+-moz-transform: rotate(360deg);
+-o-transform: rotate(360deg);
